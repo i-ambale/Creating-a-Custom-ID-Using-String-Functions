@@ -1,4 +1,3 @@
----
 # 🆔 Creating a Custom Country ID Using SQL String Functions
 
 This notebook guides you through creating customized country IDs in a relational database using SQL string functions. It demonstrates how to combine values like country name, year, and population size into a single, consistent identifier in the Access_to_Basic_Services table of the united_nations MySQL database.
